@@ -1,0 +1,21 @@
+{
+  "protocols": [
+    {
+      "id": "stress_5_min",
+      "steps": [
+        "posture",
+        "slow breathing",
+        "extended exhale",
+        "observe"
+      ]
+    },
+    {
+      "id": "meditation_10_min",
+      "steps": [
+        "settle",
+        "observe breath",
+        "maintain awareness"
+      ]
+    }
+  ]
+}

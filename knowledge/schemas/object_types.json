@@ -1,0 +1,13 @@
+{
+  "objects": [
+    "technique",
+    "mechanism",
+    "state",
+    "protocol",
+    "claim"
+  ],
+  "required": [
+    "id",
+    "name"
+  ]
+}

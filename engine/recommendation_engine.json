@@ -1,0 +1,16 @@
+{
+  "pipeline": [
+    "analyze_state",
+    "match_goal",
+    "rank_methods",
+    "generate_protocol",
+    "explain_mechanism",
+    "apply_safety"
+  ],
+  "ranking": [
+    "safety",
+    "goal_match",
+    "evidence",
+    "experience"
+  ]
+}

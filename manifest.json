@@ -1,0 +1,13 @@
+{
+  "package_id": "research-os-public-package-adaptive-breathing",
+  "version": "1.0.0",
+  "release": "final-foundation",
+  "format": "Research OS Package",
+  "features": [
+    "knowledge_graph",
+    "adaptive_recommendation",
+    "protocol_generation",
+    "evidence_mapping",
+    "safety_layer"
+  ]
+}

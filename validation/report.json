@@ -1,0 +1,11 @@
+{
+  "package": "research-os-public-package-adaptive-breathing-final-v1.0.0",
+  "status": "STRUCTURE_READY",
+  "checks": [
+    "manifest",
+    "json_structure",
+    "knowledge",
+    "engine",
+    "safety"
+  ]
+}

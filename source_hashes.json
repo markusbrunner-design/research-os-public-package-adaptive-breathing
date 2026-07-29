@@ -1,0 +1,12 @@
+{
+  "manifest.json": "a5450d9a985a5606d6dae919d8aa82fbf4ce01490af31ef1dd3f5966a317798a",
+  "validation/report.json": "55f85100e84a8092470a3e3a5ee27599e18d82a87dafb049a02391a11cf2fa23",
+  "engine/recommendation_engine.json": "25661c41f0872d504f5b49c29d09ff6f6c95f601eb185aa53d2e83b2c0f68ba4",
+  "safety/rules.json": "9fb0cd38ec5db613e4a834dc52dacca39164f037f7e1ca2812d24eed37423345",
+  "knowledge/mechanisms/model.json": "558807934f5e88301487dc60c62a0d704a2abac7e9ce9f630802e24d438a9613",
+  "knowledge/states/matrix.json": "a1f47801d3f16cf8d26e8840ec38a1d33dd54925615f9b806f3fc281fef9de64",
+  "knowledge/schemas/object_types.json": "c73d948458da5d7ab7d60f522d03b7a080f3c3729fbbc5924f82926d7c217198",
+  "knowledge/claims/model.json": "5a34d35ea802eec3cf4bea59106aa2c1969792c6bba89b08af66a8efa7b98a01",
+  "knowledge/protocols/library.json": "016035154f46315d118ce2f8032756bab31b05097debe8b7710142294cd4e8f7",
+  "knowledge/techniques/library.json": "f8f04979016a4622fb540a914f34fe65c543772af7d3c1a3f779756a432f0a13"
+}

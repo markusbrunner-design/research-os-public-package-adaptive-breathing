@@ -1,0 +1,20 @@
+{
+  "chains": [
+    [
+      "breathing_pattern",
+      "respiration",
+      "autonomic_system",
+      "subjective_state"
+    ],
+    [
+      "breathing_pattern",
+      "co2_balance",
+      "stress_response"
+    ],
+    [
+      "nasal_breathing",
+      "nitric_oxide",
+      "respiratory_function"
+    ]
+  ]
+}

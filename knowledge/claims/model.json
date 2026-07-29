@@ -1,0 +1,16 @@
+{
+  "rules": [
+    {
+      "evidence": "high",
+      "meaning": "well established relationship"
+    },
+    {
+      "evidence": "medium",
+      "meaning": "plausible supported mechanism"
+    },
+    {
+      "evidence": "low",
+      "meaning": "exploratory hypothesis"
+    }
+  ]
+}
