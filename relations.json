@@ -1,0 +1,10 @@
+[
+  {
+    "id": "REL-0001",
+    "subject_id": "SRC-0001",
+    "predicate": "describes",
+    "object": {
+      "source_id": "SRC-0002"
+    }
+  }
+]

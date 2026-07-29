@@ -1,13 +1,10 @@
 {
-  "package_id": "research-os-public-package-adaptive-breathing",
+  "format": "research-os-package",
+  "format_version": "1.0",
+  "id": "adaptive-breathing",
+  "name": "Adaptive Breathing Intelligence",
   "version": "1.0.0",
-  "release": "final-foundation",
-  "format": "Research OS Package",
-  "features": [
-    "knowledge_graph",
-    "adaptive_recommendation",
-    "protocol_generation",
-    "evidence_mapping",
-    "safety_layer"
-  ]
+  "visibility": "public",
+  "default_language": "de-DE",
+  "description": "Adaptive breathing knowledge package for Research OS."
 }

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "SRC-0001",
+    "title": "README.md",
+    "path": "data/README.md",
+    "language": "de-DE",
+    "sha256": "a450f138e03c505873954dc2dd74e2fae8d1fd28fb06c0982b31d2d2330791db",
+    "byte_length": 87
+  },
+  {
+    "id": "SRC-0002",
+    "title": "adaptive_breathing_overview.txt",
+    "path": "data/adaptive_breathing_overview.txt",
+    "language": "de-DE",
+    "sha256": "4010a151417729cabd3aa622069808f218141515879179015f4622eda5ef6371",
+    "byte_length": 80
+  },
+  {
+    "id": "SRC-0003",
+    "title": "techniques.txt",
+    "path": "data/techniques.txt",
+    "language": "de-DE",
+    "sha256": "1ca695ce7c189636a8a262785bd97e52edac629de8075fe4c50a8a383c67ce77",
+    "byte_length": 100
+  }
+]
