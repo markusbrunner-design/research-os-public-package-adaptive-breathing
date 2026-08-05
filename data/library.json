@@ -1,0 +1,82 @@
+{
+  "techniques": [
+    {
+      "id": "extended_exhale",
+      "name": "Verlängerte Ausatmung",
+      "pattern": "4:8",
+      "level": "beginner",
+      "targets": [
+        "stress",
+        "calm"
+      ],
+      "risk": "low"
+    },
+    {
+      "id": "resonance_breathing",
+      "name": "Resonanzatmung",
+      "pattern": "5-6 breaths/min",
+      "level": "beginner",
+      "targets": [
+        "regulation",
+        "focus"
+      ],
+      "risk": "low"
+    },
+    {
+      "id": "box_breathing",
+      "name": "Box Breathing",
+      "pattern": "4-4-4-4",
+      "level": "intermediate",
+      "targets": [
+        "focus"
+      ],
+      "risk": "medium"
+    },
+    {
+      "id": "diaphragmatic_breathing",
+      "name": "Zwerchfellatmung",
+      "level": "beginner",
+      "targets": [
+        "foundation"
+      ],
+      "risk": "low"
+    },
+    {
+      "id": "breath_observation",
+      "name": "Atembeobachtung",
+      "level": "beginner",
+      "targets": [
+        "meditation"
+      ],
+      "risk": "low"
+    },
+    {
+      "id": "nadi_shodhana",
+      "name": "Wechselatmung",
+      "level": "beginner",
+      "targets": [
+        "balance",
+        "meditation"
+      ],
+      "risk": "low"
+    },
+    {
+      "id": "kapalabhati",
+      "name": "Kapalabhati",
+      "level": "advanced",
+      "targets": [
+        "activation"
+      ],
+      "risk": "high"
+    },
+    {
+      "id": "wim_hof_style",
+      "name": "Wim-Hof-inspirierte Atemarbeit",
+      "level": "advanced",
+      "targets": [
+        "activation"
+      ],
+      "risk": "high"
+    }
+  ]
+}

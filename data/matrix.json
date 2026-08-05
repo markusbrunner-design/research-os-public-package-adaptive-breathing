@@ -1,0 +1,32 @@
+{
+  "states": [
+    {
+      "id": "stress",
+      "recommend": [
+        "extended_exhale",
+        "resonance_breathing"
+      ]
+    },
+    {
+      "id": "sleep_support",
+      "recommend": [
+        "slow_breathing",
+        "breath_observation"
+      ]
+    },
+    {
+      "id": "focus",
+      "recommend": [
+        "box_breathing",
+        "resonance_breathing"
+      ]
+    },
+    {
+      "id": "meditation",
+      "recommend": [
+        "breath_observation",
+        "nadi_shodhana"
+      ]
+    }
+  ]
+}
